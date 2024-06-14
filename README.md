@@ -1,4 +1,4 @@
-### Hi there 👋, my name is I’m @ChisomOnwumere (Chisom)
+### Hi there 👋, my name is @ChisomOnwumere (Chisom)
 #### Love everything Data. 
 Computer and Data Scientist. Data analyst and Business Intelligence specialist
 
