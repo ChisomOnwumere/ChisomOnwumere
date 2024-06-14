@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is @ChisomOnwumere (Chisom)
-#### Love everything Data. 
+#### LOVE everything Data. 
 Computer and Data Scientist. Data analyst and Business Intelligence specialist
 
 Skills: SQL, Python, Excel and PowerBi
@@ -9,7 +9,7 @@ Skills: SQL, Python, Excel and PowerBi
 - 💬 Ask me about Data 
 - 📫 How to reach me: https://www.linkedin.com/in/chisom-onwumere/ 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: In my free time, I enjoy hiking and exploring the great outdoors. There's something very refreshing about getting away from the screen and immersing myself in nature. It helps me clear my mind and come back to my data analysis work with renewed energy and creativity. 
+- ⚡ Fun fact: In my free time, I enjoy football, basketball, music, hiking and exploring the great outdoors. There's something very refreshing about getting away from the screen and immersing myself in nature. It helps me clear my mind and come back to my data analysis work with renewed energy and creativity. 
 
 
 <!---
