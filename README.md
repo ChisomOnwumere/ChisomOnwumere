@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is @ChisomOnwumere (Chisom)
 #### LOVE everything Data. 
-Computer and Data Scientist. Data analyst and Business Intelligence specialist
+Computer and Data Scientist. Data analyst, Business Intelligence specialist and Machine Learning Engineer.
 
 Skills: SQL, Python, Excel and PowerBi
 - 🔭 I'm currently focused on building a strong foundation in statistics, programming (especially Python and SQL), and data visualization techniques like Tableau. I'm also trying to develop my problem-solving and critical thinking skills, which are so crucial for data analysis. 
