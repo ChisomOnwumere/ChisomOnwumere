@@ -2,8 +2,8 @@
 #### LOVE everything Data. 
 Computer and Data Scientist. Data analyst, Business Intelligence specialist and Machine Learning Engineer.
 
-Skills: SQL, Python, Excel and PowerBi
-- 🔭 I'm currently focused on building a strong foundation in statistics, programming (especially Python and SQL), and data visualization techniques like Tableau. I'm also trying to develop my problem-solving and critical thinking skills, which are so crucial for data analysis. 
+Skills: SQL, Python, Excel and PowerBi, Tabeau, Looker
+- 🔭 I'm currently focused on building a strong foundation in statistics, programming (especially Python and SQL), and data visualisation techniques like Tableau. I'm also trying to develop my problem-solving and critical thinking skills, which are so crucial for data analysis. 
 - 🌱 I’m currently learning and improving my skills in data science and machine learning. 
 - 👯 I’m looking to collaborate on and find opportunities to collaborate with others who share my passion for data. 
 - 💬 Ask me about Data 
